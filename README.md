@@ -1,4 +1,4 @@
-# Run Analysis on Human Activity Recognition Data from UCI.
+# Getting Cleaning Data Assignment
 
 This project will read the training and test data measurements from UCI.
 
@@ -87,7 +87,7 @@ For generating and sharing this data, a special thanks goes to:
 
 >Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 >Smartlab - Non Linear Complex Systems Laboratory
->DITEN - Università degli Studi di Genova.
+>DITEN - UniversitÃ  degli Studi di Genova.
 >Via Opera Pia 11A, I-16145, Genoa, Italy.
 >activityrecognition@smartlab.ws
 >www.smartlab.ws
